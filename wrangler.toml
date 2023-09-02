@@ -1,0 +1,6 @@
+name = "paypay-proxy"
+main = "src/worker.ts"
+compatibility_date = "2023-08-21"
+
+[vars]
+BASE_URL = "https://app4.paypay.ne.jp"
